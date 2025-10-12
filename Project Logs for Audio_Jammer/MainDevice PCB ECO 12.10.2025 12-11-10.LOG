@@ -1,0 +1,183 @@
+Removed Member From Class: ClassName=Amplifiers Member=IC6
+Change Component Footprint: Designator=C10 Old Footprint=C 0603 New Footprint=C 0402
+Change Component Footprint: Designator=IC6 Old Footprint=SOP65P810X120-32N New Footprint=QFP80P900X900X160-32N
+Change Component Comment : Designator=IC6 Old Comment=TPA3116D2DAD New Comment=STM32G431KBT6
+Change component parameters: Designator = "IC6" ("IC6"); Footprint = "SOP65P810X120-32N"; UniqueID = "\FWSYFSYX" ("\FWSYFSYX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM32G431KBT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32g431kbt6/stmicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32g431kb.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32G431KBT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32G431KBT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G431KBT6?qs=T3oQrply3y8teCTeNAFOLg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C 0402)
+Added Component: Designator=C18(C 0402)
+Added Component: Designator=C19(C 0402)
+Added Component: Designator=C20(C 0402)
+Added Component: Designator=C21(C 0402)
+Added Component: Designator=C22(C 0402)
+Added Component: Designator=C23(C 0805)
+Added Component: Designator=C24(C 0402)
+Added Component: Designator=C25(C 0402)
+Added Component: Designator=CON1(SM04B-SRSS-TB)
+Added Component: Designator=J5(XT30PB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(XT30PB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(XT30PB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(R 0402)
+Added Component: Designator=R11(R 0402)
+Added Component: Designator=R12(R 0402)
+Added Component: Designator=R13(R 0402)
+Added Component: Designator=R14(R 0402)
+Added Component: Designator=Y1(MCSJK7U1600123080B30)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.farnell.com/datasheets/2864166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCSJK-7U-16.00-12-30-80-B-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=3.3V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=3.3V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=24V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=CON1-3
+Added Pin To Net: NetName=24V Pin=IC5-10
+Added Pin To Net: NetName=24V Pin=IC5-11
+Added Pin To Net: NetName=24V Pin=IC5-12
+Added Pin To Net: NetName=GND Pin=IC5-14
+Added Pin To Net: NetName=GND Pin=IC5-15
+Added Pin To Net: NetName=3.3V Pin=IC6-1
+Added Pin To Net: NetName=GND Pin=IC6-14
+Added Pin To Net: NetName=3.3V Pin=IC6-15
+Added Pin To Net: NetName=GND Pin=IC6-16
+Added Pin To Net: NetName=3.3V Pin=IC6-17
+Added Pin To Net: NetName=GND Pin=IC6-32
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=Chanel1 Pin=IC5-13
+Added Pin To Net: NetName=Chanel1 Pin=J6-1
+Added Net: Name=Chanel1
+Added Pin To Net: NetName=Chanel2 Pin=IC5-9
+Added Pin To Net: NetName=Chanel2 Pin=J6-2
+Added Net: Name=Chanel2
+Added Pin To Net: NetName=Gaus1 Pin=C21-2
+Added Pin To Net: NetName=Gaus1 Pin=IC2-31
+Added Pin To Net: NetName=Gaus1 Pin=IC5-1
+Added Pin To Net: NetName=Gaus1 Pin=J5-1
+Added Pin To Net: NetName=Gaus1 Pin=R11-2
+Added Net: Name=Gaus1
+Added Pin To Net: NetName=Gaus2 Pin=C22-2
+Added Pin To Net: NetName=Gaus2 Pin=IC2-32
+Added Pin To Net: NetName=Gaus2 Pin=IC5-2
+Added Pin To Net: NetName=Gaus2 Pin=J5-2
+Added Pin To Net: NetName=Gaus2 Pin=R12-2
+Added Net: Name=Gaus2
+Added Pin To Net: NetName=Gaus3 Pin=C24-1
+Added Pin To Net: NetName=Gaus3 Pin=IC2-33
+Added Pin To Net: NetName=Gaus3 Pin=IC5-4
+Added Pin To Net: NetName=Gaus3 Pin=J7-1
+Added Pin To Net: NetName=Gaus3 Pin=R13-2
+Added Net: Name=Gaus3
+Added Pin To Net: NetName=Gaus4 Pin=C25-1
+Added Pin To Net: NetName=Gaus4 Pin=IC2-34
+Added Pin To Net: NetName=Gaus4 Pin=IC5-5
+Added Pin To Net: NetName=Gaus4 Pin=J7-2
+Added Pin To Net: NetName=Gaus4 Pin=R14-2
+Added Net: Name=Gaus4
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=IC6-2
+Added Pin To Net: NetName=NetC17_1 Pin=Y1-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=IC6-3
+Added Pin To Net: NetName=NetC18_1 Pin=Y1-3
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetIC2_18 Pin=IC2-18
+Added Pin To Net: NetName=NetIC2_18 Pin=R11-1
+Added Net: Name=NetIC2_18
+Added Pin To Net: NetName=NetIC2_19 Pin=IC2-19
+Added Pin To Net: NetName=NetIC2_19 Pin=R12-1
+Added Net: Name=NetIC2_19
+Added Pin To Net: NetName=NetIC2_20 Pin=IC2-20
+Added Pin To Net: NetName=NetIC2_20 Pin=R13-1
+Added Net: Name=NetIC2_20
+Added Pin To Net: NetName=NetIC2_21 Pin=IC2-21
+Added Pin To Net: NetName=NetIC2_21 Pin=R14-1
+Added Net: Name=NetIC2_21
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_3 Pin=R10-1
+Added Net: Name=NetIC5_3
+Added Pin To Net: NetName=RESET Pin=CON1-1
+Added Pin To Net: NetName=RESET Pin=IC6-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=SWCLK Pin=CON1-4
+Added Pin To Net: NetName=SWCLK Pin=IC6-31
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=CON1-2
+Added Pin To Net: NetName=SWDIO Pin=IC6-23
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USART1_RX Pin=IC2-10
+Added Pin To Net: NetName=USART1_RX Pin=IC6-20
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=IC2-11
+Added Pin To Net: NetName=USART1_TX Pin=IC6-19
+Added Net: Name=USART1_TX
+Added Member To Class: ClassName=MCU Member=Component C17 22pF
+Added Member To Class: ClassName=MCU Member=Component C18 22pF
+Added Member To Class: ClassName=MCU Member=Component C19 1uF
+Added Member To Class: ClassName=MCU Member=Component C20 100nF
+Added Member To Class: ClassName=Amplifiers Member=Component C21 Value
+Added Member To Class: ClassName=Amplifiers Member=Component C22 Value
+Added Member To Class: ClassName=Amplifiers Member=Component C23 10uF
+Added Member To Class: ClassName=Amplifiers Member=Component C24 Value
+Added Member To Class: ClassName=Amplifiers Member=Component C25 Value
+Added Member To Class: ClassName=MCU Member=Component CON1 4 PIN
+Added Member To Class: ClassName=MCU Member=Component IC6 STM32G431KBT6
+Added Member To Class: ClassName=Amplifiers Member=Component J5 XT30PB
+Added Member To Class: ClassName=Amplifiers Member=Component J6 XT30PB
+Added Member To Class: ClassName=Amplifiers Member=Component J7 XT30PB
+Added Member To Class: ClassName=Amplifiers Member=Component R10 10k
+Added Member To Class: ClassName=Amplifiers Member=Component R11 Value
+Added Member To Class: ClassName=Amplifiers Member=Component R12 Value
+Added Member To Class: ClassName=Amplifiers Member=Component R13 Value
+Added Member To Class: ClassName=Amplifiers Member=Component R14 Value
+Added Member To Class: ClassName=MCU Member=Component Y1 MCSJK-7U-16.00-12-30-80-B-30
+Added Room: Name=Amplifiers
+Added Room: Name=Interface
+Added Room: Name=MCU
+Added Room: Name=PowerSupply

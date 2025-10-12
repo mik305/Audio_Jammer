@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Gaus1 Pin=IC2-31
+Removed Pin From Net: NetName=Gaus2 Pin=IC2-32
+Removed Pin From Net: NetName=Gaus3 Pin=IC2-33
+Removed Pin From Net: NetName=Gaus4 Pin=IC2-34
+Added Component: Designator=R15(R 0402)
+Added Component: Designator=R16(R 0402)
+Added Component: Designator=R17(R 0402)
+Added Component: Designator=R18(R 0402)
+Added Pin To Net: NetName=Gaus1 Pin=R15-2
+Added Pin To Net: NetName=Gaus2 Pin=R16-2
+Added Pin To Net: NetName=Gaus3 Pin=R17-2
+Added Pin To Net: NetName=Gaus4 Pin=R18-2
+Added Pin To Net: NetName=NetIC2_31 Pin=IC2-31
+Added Pin To Net: NetName=NetIC2_31 Pin=R15-1
+Added Net: Name=NetIC2_31
+Added Pin To Net: NetName=NetIC2_32 Pin=IC2-32
+Added Pin To Net: NetName=NetIC2_32 Pin=R16-1
+Added Net: Name=NetIC2_32
+Added Pin To Net: NetName=NetIC2_33 Pin=IC2-33
+Added Pin To Net: NetName=NetIC2_33 Pin=R17-1
+Added Net: Name=NetIC2_33
+Added Pin To Net: NetName=NetIC2_34 Pin=IC2-34
+Added Pin To Net: NetName=NetIC2_34 Pin=R18-1
+Added Net: Name=NetIC2_34
+Added Member To Class: ClassName=Amplifiers Member=Component R15 0R
+Added Member To Class: ClassName=Amplifiers Member=Component R16 0R
+Added Member To Class: ClassName=Amplifiers Member=Component R17 0R
+Added Member To Class: ClassName=Amplifiers Member=Component R18 0R
