@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Amplifiers.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifiers.SchDoc|FileName=Interface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifiers.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifiers.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=1

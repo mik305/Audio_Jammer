@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=24V Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Member From Class: ClassName=Amplifiers Member=C31

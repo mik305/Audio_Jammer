@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=24V Pin=D2-1
+Added Pin To Net: NetName=12V Pin=D2-1
+Added Member To Class: ClassName=PowerSupply Member=Component J7 XT30PB
