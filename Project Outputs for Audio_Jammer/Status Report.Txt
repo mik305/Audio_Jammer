@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Audio_Jammer.PrjPcb]
+   Generated File[MainDevice_Copper_Signal_Top.gbr]
+   Generated File[MainDevice_Copper_Signal_Bot.gbr]
+   Generated File[MainDevice_Pads_Bot.gbr]
+   Generated File[MainDevice_Pads_Top.gbr]
+   Generated File[MainDevice_Legend_Bot.gbr]
+   Generated File[MainDevice_Soldermask_Bot.gbr]
+   Generated File[MainDevice_Paste_Bot.gbr]
+   Generated File[MainDevice_Legend_Top.gbr]
+   Generated File[MainDevice_Paste_Top.gbr]
+   Generated File[MainDevice_Soldermask_Top.gbr]
+   Generated File[MainDevice_Keep-out.gbr]
+   Generated File[MainDevice_Mechanical_13.gbr]
+   Generated File[MainDevice_Mechanical_1.gbr]
+   Generated File[MainDevice_Mechanical_15.gbr]
+   Generated File[MainDevice_Profile.gbr]
+   Generated File[MainDevice_NPTH_Drill.gbr]
+   Generated File[MainDevice_PTH_Drill.gbr]
+   Generated File[MainDevice_Drawing_1.gbr]
+   Generated File[MainDevice_Drillmap_1.gbr]
+   Generated File[MainDevice.RUL]
+   Generated File[MainDevice.EXTREP]
+   Generated File[MainDevice.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 20:07:53 On 28.10.2025

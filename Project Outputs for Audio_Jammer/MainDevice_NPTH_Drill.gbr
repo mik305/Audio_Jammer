@@ -1,0 +1,20 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,21.7.2 (23)*%
+G04 Layer_Color=0*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.SameCoordinates,ACC8E456-25BC-4CB5-B469-56B585E6E94B*%
+%TF.FilePolarity,Positive*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+G36*
+X3835160Y6632500D02*
+Y5962500D01*
+X4690160D01*
+Y6632500D01*
+X3835160D01*
+D02*
+G37*
+%TF.MD5,e4329787c0fe7c979e160e0cd27d3419*%
+M02*
